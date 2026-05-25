@@ -1,168 +1,180 @@
-<div align="center">
+# 👋 Hi, I'm Anmol Pandey | ML Engineer & Data Scientist
 
-<!-- Dynamic typing header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=1F4E79&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hi%2C+I'm+Anmol+Pandey+%F0%9F%91%8B;AI%2FML+Engineer+%7C+NLP+%C2%B7+CV+%C2%B7+LLMs" alt="Typing SVG" />
-</a>
+> **Building intelligent solutions with AI, ML, NLP, and Computer Vision** 🚀
 
-<br/>
-
-<p>
-  <a href="https://www.linkedin.com/in/anmol-pandey-240105376">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:19anmolp9119@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-✅-brightgreen?style=for-the-badge"/>
-  <img src="https://komarev.com/ghpvc/?username=AnmolPandey9119&style=for-the-badge&color=1F4E79" alt="profile views"/>
-</p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnmolPandey9119&theme=minimal&hide_border=true&area=true" width="95%"/>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/anmol-pandey-240105376)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat-square)](mailto:19anmolp9119@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=flat-square)](https://github.com/AnmolPandey9119)
+[![Phone](https://img.shields.io/badge/Phone-%2B91--7599056995-green?style=flat-square)](#)
 
 ---
 
-## 🧠 About Me
+## 🎯 About Me
 
-```python
-anmol = {
-    "role"       : "AI/ML Engineer",
-    "education"  : "B.Tech CSE — GNCT, Greater Noida | CGPA: 8.41/10",
-    "experience" : ["AI/ML Intern @ InternPE", "AI Intern @ Codec Technologies"],
-    "building"   : "HireView — AI mock-interview platform (real-time facial + speech analysis)",
-    "stack"      : ["LLMs", "RAG", "NLP", "Computer Vision", "MLOps"],
-    "interests"  : ["LangChain", "Vector DBs", "AWS Deployment", "Agentic AI"],
-    "target"     : "SWE-AI · ML Engineer · Data Scientist | 15+ LPA",
-    "motto"      : "Every real-world problem has an ML solution waiting to be built 🚀"
-}
-```
+Machine Learning Engineer and Data Scientist with expertise in **end-to-end ML model development, NLP, Computer Vision, and LLM-based applications**. Currently seeking a **Machine Learning Engineer or Data Scientist role**.
+
+- 📍 **Location:** Greater Noida, UP, India
+- 🎓 **Education:** B.Tech in Computer Science (GNCT, CGPA: 8.41/10)
+- 💼 **Current:** AI/ML Intern @ InternPE & Codec Technologies
+- 🏆 **Recognition:** Google Student Ambassador | NCC B Certificate
+- 📧 **Email:** 19anmolp9119@gmail.com
+- 📱 **Phone:** +91-7599056995
 
 ---
 
-## 🛠️ Tech Stack
+## 🔥 Key Achievements
 
-**Languages**
+| Achievement | Metric | Impact |
+|-------------|--------|--------|
+| IPL Match Prediction Model | **84% Accuracy** | Deployed on AWS FastAPI |
+| Breast Cancer Classifier | **95% Recall, 92% Precision** | 40% fewer false negatives |
+| NLP Customer Support Chatbot | **60% Automation** | Reduced manual queries |
+| ML Pipeline Optimization | **70% Faster** | Using Scikit-learn |
+| Movie Recommendation Engine | **25% Improvement** | Over popularity baseline |
+| Multi-Language Translator | **50 Languages** | Real-time on GCP |
 
+---
+
+## 💻 Technical Stack
+
+### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**AI / ML / DL**
-
+### **ML/AI & Deep Learning**
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189B00?style=flat-square&logo=xgboost&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3E7B27?style=flat-square&logo=python&logoColor=white)
 
-**MLOps & Cloud**
+- **ML Frameworks:** TensorFlow, PyTorch, Scikit-learn
+- **NLP:** Hugging Face Transformers, LangChain, NLTK, spaCy
+- **Computer Vision:** MediaPipe, OpenCV, FastAPI
+- **Advanced Techniques:** RAG, LLMs, Feature Engineering, Ensemble Methods, A/B Testing, Prompt Engineering
 
+### **Cloud & MLOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Data Engineering**
+- Docker, Model Deployment, CI/CD, GitHub Actions, MLflow
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+### **Data & Databases**
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Professional Experience
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### **AI/ML Intern** | InternPE
+*Aug – Sep 2025 | Remote*
 
-### 🎤 [HireView — AI Interview Platform](https://github.com/AnmolPandey9119/HireView)
-> *Flagship Project*
+✨ **Achievements:**
+- Built **IPL match outcome prediction model** using Random Forest & XGBoost on 10K+ records
+  - Accuracy: **84%** | Deployed via FastAPI REST API on AWS
+- Developed **Breast Cancer Classifier** with deep learning
+  - 95% recall, 92% precision on 569-sample dataset
+  - **40% reduction** in false negatives vs. baseline logistic regression
+- Engineered complete ML pipeline: data cleaning → EDA → feature engineering → hyperparameter tuning → A/B testing
+  - **30% reduction** in training time using Scikit-learn Pipelines
 
-Real-time AI-powered mock interview platform with:
-- 🎯 **Speech clarity scoring** via audio NLP
-- 😊 **Facial gesture detection** (MediaPipe + OpenCV)
-- 📊 **Sentiment analysis** of candidate responses
+---
 
-`FastAPI` `React` `MediaPipe` `OpenCV` `NLP`
+### **Artificial Intelligence Intern** | Codec Technologies
+*Jul – Aug 2025 | Remote*
 
-</td>
-<td width="50%" valign="top">
+✨ **Achievements:**
+- Built **NLP customer support chatbot** with Hugging Face Transformers
+  - Intent classification achieving **60% automation** of repetitive queries
+  - Reduced manual support workload by 45%
+- Designed **LLM-based interview question generator** with prompt engineering
+  - Role-specific difficulty calibration
+  - **70% reduction** in interview prep time for 3+ hiring workflows
+- Created **hybrid movie recommendation engine**
+  - Collaborative Filtering + Content-Based Filtering
+  - **25% improvement** in recommendation relevance over popularity baseline
 
-### 🩺 [Breast Cancer Detection](https://github.com/AnmolPandey9119/Breast-Cancer-Detection)
-> *Healthcare AI | Internship Project*
+---
 
-ML classifier achieving **~95% recall** — prioritizing patient safety:
-- Random Forest + XGBoost ensemble pipeline
-- Advanced feature engineering on clinical data
-- Confusion matrix & ROC curve analysis
+## 🏗️ Featured Projects
 
-`Python` `Scikit-learn` `XGBoost` `Feature Engineering`
+### 1️⃣ **HireView — AI-Powered Mock Interview Platform**
+*Python | FastAPI | React | MediaPipe | OpenCV | Docker | NLP*
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**What it does:** Real-time AI interview analysis with speech clarity scoring, sentiment analysis, and facial/gesture detection.
 
-### 🏏 [IPL Match Prediction](https://github.com/AnmolPandey9119/IPL-Match-Prediction)
-> *Sports Analytics | Internship Project*
+**Key Features:**
+- 🎤 Real-time speech analysis & clarity scoring
+- 😊 Facial emotion & gesture detection using MediaPipe
+- 📊 Sentiment analysis feedback
+- 🌐 Deployed FastAPI backend with Dockerized microservices
+- 💬 WebSocket support for 50+ concurrent sessions
 
-Predicts IPL match outcomes with **84% accuracy**:
-- Ensemble ML on team stats, player form & venue features
-- Cross-validated with historical season data
+📂 [View Repository](https://github.com/AnmolPandey9119/HireView)
 
-`Python` `Random Forest` `XGBoost` `Sports Analytics`
+---
 
-</td>
-<td width="50%" valign="top">
+### 2️⃣ **Smart FAQ Chatbot & Movie Recommendation System**
+*Python | NLP | Scikit-learn | RAG | Collaborative Filtering*
 
-### 🤖 [Smart FAQ Chatbot](https://github.com/AnmolPandey9119/Codealpha_Chatbot-faqs)
-> *Enterprise NLP | Internship Project*
+**What it does:** Intelligent FAQ resolution with hybrid movie recommendations.
 
-NLP-powered FAQ bot with **91% intent classification accuracy**:
-- TF-IDF vectorization + cosine similarity
-- Designed for enterprise-scale support automation
+**Key Features:**
+- 🤖 NLP-powered FAQ chatbot with RAG-based intent classification (**91% accuracy**)
+- 🎬 Hybrid recommendation engine (**25% improvement** in click-through rate)
+- 📈 A/B testing framework for experimentation
 
-`Python` `NLTK` `NLP` `Intent Classification`
+📂 [View Repository](https://github.com/AnmolPandey9119/Codealpha_Chatbot-faqs)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🎬 [Movie Recommendation Engine](https://github.com/AnmolPandey9119/Codsoft_Movierecommendation)
-> *Recommender Systems*
+### 3️⃣ **IPL Match Prediction**
+*Python | Random Forest | XGBoost | Sports Analytics*
 
-Hybrid recommendation system **25% better** than popularity baselines:
-- Collaborative + Content-Based Filtering
-- Matrix factorization & cosine similarity
+**What it does:** Predicts IPL match outcomes with machine learning.
 
-`Python` `Scikit-learn` `Pandas` `Collaborative Filtering`
+**Key Features:**
+- ⚾ **84% accuracy** on historical data
+- 📊 Ensemble ML on team stats, player form & venue features
+- ✅ Cross-validated with multiple seasons
 
-</td>
-<td width="50%" valign="top">
+📂 [View Repository](https://github.com/AnmolPandey9119/IPL-Match-Prediction)
 
-### 🧠 [Tic-Tac-Toe AI Agent](https://github.com/AnmolPandey9119/Codsoft-_tictactoeai)
-> *Game AI | Search Algorithms*
+---
 
-Provably **unbeatable** AI agent:
-- Minimax algorithm + Alpha-Beta Pruning
-- **60% faster** decision-making vs vanilla Minimax
-- Zero losing games across 10,000+ simulations
+## 🎓 Education
 
-`Python` `Minimax` `Alpha-Beta Pruning` `Game Theory`
+**B.Tech — Computer Science & Engineering**  
+*GN Group of Institutes (GNCT), Greater Noida | 2022 – Present*
 
-</td>
-</tr>
-</table>
+- **CGPA:** 8.41/10
+- **Relevant Coursework:** Data Structures & Algorithms, DBMS, OOP, Computer Networks, OS, Artificial Intelligence, Machine Learning
+
+---
+
+## 🏆 Certifications & Achievements
+
+| Certification | Organization | Date |
+|--------------|--------------|------|
+| 🥇 AI with ML Workshop | IIT Delhi | 2024 |
+| 🥇 JP Morgan Chase Quantitative Research Simulation | JP Morgan | Apr 2025 |
+| 🥇 Accenture Nordics Software Engineering Simulation | Accenture | Jun 2025 |
+| 🥇 AI/ML Intern Certificate | Codec Technologies | Aug 2025 |
+| 🥇 AI/ML Intern Certificate | InternPE | Sep 2025 |
+| 🥇 Google Student Ambassador | Google | Dec 2025 |
+| 📜 NCC 'B' Certificate (A Grade) | NCC | 2021 |
+| 📜 NCC 'C' Certificate (B Grade) | NCC | 2022 |
 
 ---
 
@@ -170,47 +182,44 @@ Provably **unbeatable** AI agent:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AnmolPandey9119&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolPandey9119&layout=compact&theme=default&hide_border=true&langs_count=8" height="165"/>
+![Anmol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnmolPandey9119&show_icons=true&theme=radical&count_private=true&hide_border=true)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolPandey9119&layout=compact&theme=radical&hide_border=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AnmolPandey9119&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="150"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnmolPandey9119&theme=radical&hide_border=true)
 
 </div>
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🤝 Open To
 
-| Certification | Issuer | Year |
-|---|---|---|
-| 🎓 AI with ML Technical Workshop | **IIT Delhi** | 2024 |
-| 🏦 Quantitative Research Job Simulation | **JP Morgan Chase & Co.** | Apr 2025 |
-| 💻 Software Engineering Job Simulation | **Accenture Nordics** | Jun 2025 |
-| 🤖 Artificial Intelligence Internship | **Codec Technologies** | Aug 2025 |
-| 📊 AI/ML Internship | **InternPE** | Sep 2025 |
-| 🌐 Google Student Ambassador | **Google** | Dec 2025 |
+- 🔗 **Collaborations** on ML/AI projects
+- 💼 **Full-time opportunities** as ML Engineer or Data Scientist
+- 📚 **Learning & contributing** to open-source
+- 🌟 **Mentoring** aspiring ML engineers
 
 ---
 
-## 🔭 Currently Working On
+## 📬 Let's Connect
 
-```
-🏗️  HireView v2.0   → Adding LLM-based answer evaluation + RAG pipeline
-📚  Learning        → LangChain agents · Pinecone · AWS SageMaker · CI/CD for ML
-🎯  Goal            → Land a 15+ LPA AI/ML / Data Scientist role
-```
+I'm always interested in discussing AI, ML, and building intelligent solutions!
+
+| Platform | Link |
+|----------|------|
+| 📧 **Email** | [19anmolp9119@gmail.com](mailto:19anmolp9119@gmail.com) |
+| 💼 **LinkedIn** | [Anmol Pandey](https://linkedin.com/in/anmol-pandey-240105376) |
+| 🐙 **GitHub** | [@AnmolPandey9119](https://github.com/AnmolPandey9119) |
+| 📱 **Phone** | +91-7599056995 |
 
 ---
 
 <div align="center">
 
-**💼 Open to SWE-AI · ML Engineer · Data Scientist roles (15+ LPA)**
+### ⭐ If you like my projects, consider giving them a star!
 
-*Let's build something intelligent together!*
+**Made with ❤️ by Anmol Pandey**
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anmol-pandey-240105376)
-[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:19anmolp9119@gmail.com)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=AnmolPandey9119.AnmolPandey9119)
 
 </div>
